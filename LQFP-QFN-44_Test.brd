@@ -126,6 +126,16 @@
 <wire x1="37.846" y1="25.4" x2="37.846" y2="0" width="0" layer="20"/>
 <wire x1="37.846" y1="0" x2="0" y2="0" width="0" layer="20"/>
 <wire x1="0" y1="0" x2="0" y2="25.4" width="0" layer="20"/>
+<polygon width="0" layer="41" pour="hatch">
+<vertex x="28.956" y="6.35"/>
+<vertex x="28.956" y="19.455609375"/>
+<vertex x="30.582390625" y="21.082"/>
+<vertex x="31.901609375" y="21.082"/>
+<vertex x="33.528" y="19.455609375"/>
+<vertex x="33.528" y="6.35"/>
+<vertex x="32.004" y="4.826"/>
+<vertex x="30.48" y="4.826"/>
+</polygon>
 </plain>
 <libraries>
 <library name="PP_DigitalIC">
